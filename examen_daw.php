@@ -7,7 +7,6 @@
 </head>
 <body>
     <?php
-// Cambio de prueba para confirmar subida
     // Creo las variables
     $nombre_alumno = "Jiaxin Ji";
     $modulo = "Desarrollo Web en Entorno Servidor";
