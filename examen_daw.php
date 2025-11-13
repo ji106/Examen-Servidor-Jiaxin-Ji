@@ -7,6 +7,7 @@
 </head>
 <body>
     <?php
+    // Cambio de prueba para confirmar subida a GitHub
     // Creo las variables
     $nombre_alumno = "Jiaxin Ji";
     $modulo = "Desarrollo Web en Entorno Servidor";
